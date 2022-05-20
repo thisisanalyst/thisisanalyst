@@ -8,15 +8,15 @@
 - 📞 Call me or Whatsapp me on: +91 8819912828
 
 - 🔎 My Personal Social media profile's:
--       Facebook: [@this.is.analyst](https://www.facebook.com/this.is.analyst)
--       Instagram: [@this.is.analyst](https://www.instagram.com/this.is.analyst/)
--       LinkedIn: [@thisisanalyst](https://www.linkedin.com/in/thisisanalyst/)
--       Twitter: [@thisisanalyst](https://twitter.com/thisisanalyst)
+-       Facebook: @this.is.analyst : https://www.facebook.com/this.is.analyst
+-       Instagram: @this.is.analyst : https://www.instagram.com/this.is.analyst/
+-       LinkedIn: @thisisanalyst : https://www.linkedin.com/in/thisisanalyst/
+-       Twitter: @thisisanalyst : https://twitter.com/thisisanalyst
      
 - 🔎 My Business Social media profile's:
--       Facebook: [@NextGenerationWebStudio](https://www.facebook.com/NextGenerationWebStudio)
--       Instagram: [@next_generation_web_studio](https://www.instagram.com/next_generation_web_studio/)
--       LinkedIn: [@next-generation-web](https://www.linkedin.com/company/next-generation-web/)
+-       Facebook: @NextGenerationWebStudio : https://www.facebook.com/NextGenerationWebStudio
+-       Instagram: @next_generation_web_studio : https://www.instagram.com/next_generation_web_studio/
+-       LinkedIn: @next-generation-web : https://www.linkedin.com/company/next-generation-web/)
 
 - ☎ Contact me for UI/UX Designing | Web Designing & Development
 
