@@ -16,7 +16,7 @@
 - 🔎 My Business Social Media Profile's:
 -       https://www.facebook.com/NextGenerationWebStudio/
 -       https://www.instagram.com/next_generation_web_studio/
--       https://www.linkedin.com/company/next-generation-web/
+-       https://in.linkedin.com/showcase/next-generation-web-studio/
 -
 - ☎ Contact me for UI/UX Designing | Web Designing & Development
 
