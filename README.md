@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Rishabh Parihar
-- 👀 I am a UI/UX Designer | Web Designer & Developer
-- 🌱 Good at Adobe XD, Figma, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, JavaScript & React
+- 👀 I am a Product Designer | UI/UX Designer | Web Designer & Developer
+- 🌱 Good at Adobe XD, Figma, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, JavaScript, Barba.js, GSAP, Three.js & React.js
 -
 - 📫 rishabhparihar.official@gmail.com | 📞 +91 8819912828
 -
