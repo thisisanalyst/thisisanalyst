@@ -4,7 +4,7 @@
 -
 - 📫 official.rishabh.parihar@gmail.com | 📞 +91 8819912828
 -
-- ☎ Contact me for UI/UX Designing | Web Designing & Development
+- ☎ Contact me for Product Designing | UI/UX Designing | Web Designing & Development
 
 <!---thisisanalyst/thisisanalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
